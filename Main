@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Schattenreich.club – The Insider’s Marketplace of Local Hacks</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+    background: #f9f9f9;
+    color: #333;
+  }
+  h1, h2, h3 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  h1 {
+    margin-bottom: 0.5em;
+  }
+  h2 {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+  }
+  h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  p {
+    margin-bottom: 1em;
+  }
+  ul {
+    list-style: disc inside;
+    margin-bottom: 1em;
+  }
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  hr {
+    margin: 2em 0;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <h1>Welcome to Schattenreich.club</h1>
+  <h2>The Insider’s Marketplace of Local Hacks</h2>
+  
+  <p><strong>Overview:</strong><br>
+  Schattenreich.club is a community-driven platform where insider information—local secrets, unique life hacks, and real-time opportunities—are traded like valuable currency. Instead of letting hidden knowledge go untapped, you can now share it, earn tokens, and contribute to a trusted, location-based network of urban intelligence.</p>
+  
+  <h2>Our Vision</h2>
+  <p>In a world where time-saving tricks and convenient opportunities are priceless, Schattenreich.club serves as a decentralized marketplace for hyper-local intel. These “hacks” can be purely physical or tied directly to specific coordinates (latitude/longitude) that pinpoint exactly where a benefit awaits. We believe everyone holds a piece of the puzzle—an insider tip, a shortcut, a local secret. By turning these insights into tradable assets, we create an economy of trust, resourcefulness, and community value.</p>
+  
+  <h2>How It Works</h2>
+  <h3>1. Post Your Hack</h3>
+  <p>Have valuable intel you’d like to share for profit? Post it on Schattenreich. Every hack must include:</p>
+  <ul>
+    <li><strong>Description:</strong> Clearly state what the opportunity is—perhaps a soon-to-be vacant parking spot, a café’s secret discount, or a hotel’s free breakfast loophole.</li>
+    <li><strong>Physical or Coordinate-Based Location:</strong> Tie your hack to a specific point in the real world, whether it’s a street address or precise latitude/longitude coordinates.</li>
+    <li><strong>Set a Price in Snifler Tokens:</strong> Assign a token fee to unlock your hack. Anyone who wants full details pays in Snifler Tokens, ensuring you’re fairly compensated for your info.</li>
+  </ul>
+  
+  <h3>2. Buyers Unlock & Utilize</h3>
+  <p>Users browsing the platform discover hacks by exploring maps or searching nearby coordinates. To access the full tip—exact addresses, timing, or instructions—they pay the Snifler Token price you’ve set. Once unlocked, they can immediately put your intel to use.</p>
+  
+  <h3>3. Earn Tokens for Every Use</h3>
+  <p>Each time someone purchases your hack, you earn Snifler Tokens. The more useful and in-demand your intel, the more tokens you collect. This ongoing revenue model incentivizes posting accurate, high-value information, as only truly beneficial tips will continue to earn you rewards.</p>
+  
+  <h3>4. Review & Verification System</h3>
+  <p>Schattenreich thrives on trust. After using your hack, buyers can verify its accuracy and rate its value. Positive feedback boosts your credibility, making future customers more likely to spend their Snifler Tokens on your posts. Consistently delivering on your promises can elevate you to “Trusted Source” status, increasing visibility and potential earnings.</p>
+  
+  <h3>5. Building a Reputation</h3>
+  <p>Each contributor has a profile displaying their overall rating, number of verified uses, and credibility scores. High ratings and confirmed successful hacks let you charge more, appear more prominently in search results, and become a go-to insider in your region.</p>
+  
+  <h3>6. Community Integrity & Moderation</h3>
+  <p>We strive to maintain a fair and accurate marketplace. Users can flag inaccurate or outdated hacks, and repeated verification checks ensure misleading posts don’t survive. Linking each hack to physical or coordinate-based locations makes it easier for the community to validate claims. Our goal is a trusted ecosystem where truthful, high-quality information thrives.</p>
+  
+  <hr>
+  
+  <h2>Why Schattenreich?</h2>
+  <ul>
+    <li><strong>Local Intelligence, Clearly Mapped:</strong> Whether it’s a physical address or exact coordinates, you know precisely where your opportunity awaits.</li>
+    <li><strong>Tokenized Marketplace:</strong> Snifler Tokens let you transform your local know-how into tangible wealth. The better your intel, the more you earn.</li>
+    <li><strong>Actionable & Precise:</strong> No guessing games. Clear locations ensure you can take advantage of the hack immediately.</li>
+    <li><strong>Trust Through Transparency:</strong> Reviews, ratings, and verification keep the system honest, making every token spent a wise investment.</li>
+  </ul>
+  
+  <h2>Getting Started</h2>
+  <ul>
+    <li><strong>Create an Account:</strong> Sign up and set up your profile at Schattenreich.club.</li>
+    <li><strong>Acquire Snifler Tokens:</strong> Purchase tokens to unlock intel or start posting your own hacks to earn them.</li>
+    <li><strong>Explore by Location:</strong> Use our map interface or coordinate-based search to find hacks near you.</li>
+    <li><strong>Contribute & Prosper:</strong> Post quality intel, earn positive feedback, and watch your Snifler Token balance grow.</li>
+  </ul>
+  
+  <hr>
+  
+  <h2>Join the Schattenreich Community</h2>
+  <p>Ready to transform your hidden insights into a steady stream of Snifler Tokens? Start exploring the map, posting intel, and profiting from insider secrets that make your local area come alive.</p>
+  
+  <p><a href="#">Visit Schattenreich.club</a> and step into a world where information isn’t just power—it’s currency.</p>
+
+</div>
+</body>
+</html>
+
+
+
+
+
